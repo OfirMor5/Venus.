@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="Venus.png" height='180' width='120'></div>
+<div align="center"> <img src="Venus.png" ></div>
 
 ## Pragnantcy application 
 
@@ -15,4 +15,4 @@ For the server side and the database we used FireBase.
 for the Chatbot we used Dialogflow
 
 ### Demo
-<video src="Venus video.mp4" height=370 width=700>
+<video src="Venus.gif" height=370 width=700>
