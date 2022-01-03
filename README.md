@@ -4,9 +4,9 @@
 ## Pregnancy application 
 
 ### Background
-Final thesis for a degree in computer science.
-Pregnancy tracking app.
-Shows the condition of the fetus by weeks.
+Final thesis for a degree in computer science.\n
+Pregnancy tracking app.\n
+Shows the condition of the fetus by weeks.\n
 Integrates a smart chatbot that answers pregnancy questions
 
 ### Technologies
