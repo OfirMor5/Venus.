@@ -1,12 +1,14 @@
 
 <div align="center"> <img src="Venus.png" height='220' width='160'></div>
 
-## Pregnancy application 
+## Pregnancy application
+Final thesis for a degree in computer science.
+
 
 ### Background
-Final thesis for a degree in computer science./n
-Pregnancy tracking app.\n
-Shows the condition of the fetus by weeks.\n
+Final thesis for a degree in computer science.
+Pregnancy tracking app.
+Shows the condition of the fetus by weeks.
 Integrates a smart chatbot that answers pregnancy questions
 
 ### Technologies
