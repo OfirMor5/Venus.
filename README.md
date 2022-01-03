@@ -15,4 +15,4 @@ For the server side and the database we used FireBase.
 for the Chatbot we used Dialogflow
 
 ### Demo
-<img src="Venus.gif" height=370 width=700>
+<img src="Venus.gif" height=500 width=350>
