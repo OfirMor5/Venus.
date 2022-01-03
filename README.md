@@ -1,7 +1,7 @@
 
 <div align="center"> <img src="Venus.png" height='220' width='160'></div>
 
-## Pragnantcy application 
+## Pregnancy application 
 
 ### Background
 Final thesis for a degree in computer science.
