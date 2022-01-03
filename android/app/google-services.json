@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272797436224",
+    "firebase_url": "https://hera-95326-default-rtdb.firebaseio.com",
+    "project_id": "hera-95326",
+    "storage_bucket": "hera-95326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272797436224:android:a0b365a7756370f68492a5",
+        "android_client_info": {
+          "package_name": "com.colman.Hera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272797436224-t3pino42h0cbqff278qdol9uu375q339.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colman.Hera",
+            "certificate_hash": "21bbd8d7a8c990d94c5009a2b9d3b00491b9351a"
+          }
+        },
+        {
+          "client_id": "272797436224-qs4n45iubi81t3hqfe0s6jcje5l11t57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2bAaKbM6tSamO4-dcDkk7UzR6d3lCdIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272797436224-qs4n45iubi81t3hqfe0s6jcje5l11t57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272797436224-2btlos1ef79n3shbjagn7eps0b1rgki7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.colman.Hera"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hera-95326",
+  "private_key_id": "7fb2fc80461ed5f467199add5775aaeb4d6c8171",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6Qyq8jXUxSlRK\nFab4Jq5gL/xT3PKSUSam/sG/AQC2u/b1j0g8Si10vrvsHZwT3OHI6D//iNmwrmYp\niReLAEhzOtM7M3naFW6Z/oHixlX4fbp7nmLCdjM5br6abuDtWABs5BetpaE9d5/X\nR6W0fvHHqa8EngbwVGdV+IYCDJAkJbg0t7TSoPanSE4ncfjU1v2VQZCRCcM9qk0/\naPJ1KQ4onWJX4pbMrUBfbNofVXBGFKl05APXKFNJn/08yKLxCzGqI5lCesQ0zq9r\nCBfhiY+8WAa4lMCcvmWlUqVlKylqWfazOZKBkloJo1f9yxgc1w3j4zHybhvFoqL5\nyFndCwQjAgMBAAECggEAQrg3kUXskkTpT4ZVAnO8p7jYnmO5Ql8uRMhht10RF+PZ\nsRlriykZAkYmQ4xRsa2/9Pr4nby0Gb1G3B7+32wxB5GtQ3oLbmqZ7TCE7yoTdoj2\n6TwRbU3wyGRagzAvguUwddD4iFuZl86HY5KHEVIdomMuTa2bl6/sOhflTMuaQE/j\nXcz2bX7nczT+HqZxlo102vaq3/Z3vhcQfrGzsncpaUcrX7JFwO7cIFO00KYcf2Lu\nBAFbTo8ojyyjZUdzSvWgDguSPW1dO5eFOClrtDKI3uenP9pQe9ZOdaOqPKPO5Rpj\nE4R2GCfqm41XNH1xMgT6Flh9PnabAqktP2SBjAssYQKBgQDxuuIgsApOeey1pBoq\n5CMbmfbEWv4/pjCUN2PBQRn0MGUU9aSoLBz8Gr2ms2KtsuM8zj0nrCZJYfGD3zBv\ni5BdKkXlNReTU4Dnv+WxrN6kcvujunXR83pHfkbDLBFg5Al9A6icuxbruhskiaeB\nihk6l2UQjA49KzcHrtdgCzF6QwKBgQDFQgkMNdqfc7TcQ6FCAevQv0VY0vP9X1xL\ndIidZTWUvnomf3+Xc1QTcdPQFC4obXUH7B4yAex+nhC1/MEl8M2EWJGLlXsFpG3v\ndA6ldXT/pvxB7yL9nwXsZMc3YdjBqTOoLiU9SJK0aIQTe2qfCTCIpSvUXhrNmA6v\nrGQVh1xgoQKBgQDAGwgoeB7IvSa8N/0/xuyLu/EbnUDfboC+2cIiTE2G/YrnfExu\nBhjG1a2QtJEgf8ENis2ZILuQqBDa/12r2BtTnwvLG0VwJPWVt7CgYkTSJjsLpFyM\nDNZJyPYNl5D8El3kBytR23FcxxtZDziavxhLsxNzcgrC2/ww0+eAAYVBpwKBgHFJ\n3rZji57+LgY+1TN6tPubjnFYHocLKI+xavCyetZlmvPXT+kkdEoCmrqrjGLtkkQt\niJ4B2thRYZmTgz6OEQqMb3KyNAhmijj2955xWfOl7MTVWcw9c4Jz0rJtALcgvSk+\n72ZF8vOn/wrNW8vg1D32VrjOHyiqxux/3q86oYRhAoGAbdABNKPHqOlUXMTSFz/S\nvrMWVnjlw0BBr3GGAkvNHFnJycNHrLcH7+pVrNRP5nGCpV5aE9TmWJyV38/JTHtH\nvF8yvbftLGoD9vGUWHIHr58of+RP2jd1Fq9wu8bZYTn+BH6PAj8BLG+JuAkAO57R\nodAMJf/2ZsIqI2a5tFMN7zs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-app-hera@hera-95326.iam.gserviceaccount.com",
+  "client_id": "116665847088522372014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-app-hera%40hera-95326.iam.gserviceaccount.com"
+}
