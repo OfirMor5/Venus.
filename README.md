@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="Venus.png" height='80' width='190'></div>
+<div align="center"> <img src="Venus.png" height='180' width='120'></div>
 
 ## Pragnantcy application 
 
@@ -16,3 +16,5 @@ for the Chatbot we used Dialogflow
 
 ### Demo
 <img src="Venus video.mp4" height=370 width=700>
+
+![caption](Venus video.mp4)
