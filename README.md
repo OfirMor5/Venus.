@@ -15,6 +15,4 @@ For the server side and the database we used FireBase.
 for the Chatbot we used Dialogflow
 
 ### Demo
-<img src="Venus video.mp4" height=370 width=700>
-
-![caption](Venus video.mp4)
+<video src="Venus video.mp4" height=370 width=700>
